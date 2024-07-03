@@ -15,7 +15,7 @@
 <a href="https://instagram.com/harrrsh05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harrrsh20" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/harsh_1820" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="HarshSahuH" height="30" width="40" /></a>
 
-  <a href="https://www.geeksforgeeks.org/user/___harsh18__/" target="blank"><img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AGeeksforGeeks.svg&psig=AOvVaw2qSenWLIlSOvt7TdVDsnAn&ust=1720078276379000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPC_lI-tiocDFQAAAAAdAAAAABAE" alt="HarshSahuH" height="30" width="40" /></a>
+  <a href="https://www.geeksforgeeks.org/user/___harsh18__/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/geeksforgeeks.svg" alt="HarshSahuH" height="30" width="40" /></a>
 
 <a href="https://www.leetcode.com/HarshSahuH" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="itsvarsharma" height="30" width="40" /></a>
   
