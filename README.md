@@ -39,6 +39,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=HarshSahuH&show_icons=true&locale=en" alt="Harsh Sahu" /></p>
 
-<br>
+<br> 
 <p align="center"> <a href="https://twitter.com/harshsahu_ofcl" target="blank"><img src="https://img.shields.io/twitter/follow/HarshSahuH?logo=twitter&style=for-the-badge" height="40" alt="HarshSahuH" /></a> </p>
 
