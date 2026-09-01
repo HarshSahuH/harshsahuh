@@ -1,4 +1,4 @@
- <img align="centre" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="1000" height="500" />
+  <img align="centre" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="1000" height="500" />
 
   [![MasterHead](vs.gif)](https://itsvarsharma.netlify.app)
 <h1 align="center">Hi 👋, I'm Harsh Sahu</h1> 
